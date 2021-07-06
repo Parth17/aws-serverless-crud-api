@@ -1,4 +1,5 @@
 org: parthaws17
+app:cicd
 service:
   name: aws-serverless-crud-api
 
